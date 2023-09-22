@@ -1,3 +1,17 @@
+/*
+0 - 600px: Phone
+600 - 900px: Tablet portrait
+900 - 1200px: Tablet landscape
+(1200 - 1800): is where our normal stules apply
+1800px + : Big desctop
+*/
+/*
+$breakpoint argument choices;
+- phone
+- tab-port
+- tab-land
+- big-desctop
+*/
 @keyframes moveInLeft {
   0% {
     opacity: 0;
